@@ -1,0 +1,1 @@
+# nushell-npm-binary
